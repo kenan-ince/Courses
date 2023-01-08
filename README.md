@@ -1,3 +1,3 @@
-https://youtu.be/By4aq5vySmE
+Each branch is Java implemenration of one of the course implemented in related video course
 
-This orphan branch is the implemented Java code in the youtube video with the subjected as Binary Search Tree.
+https://www.youtube.com/watch?v=PWigVuoTn18&list=PL4XQdSx4Y7b5hKRcOGXwR6vIRByqtz9Kx
